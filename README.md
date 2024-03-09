@@ -1,5 +1,5 @@
 ### Hi, my name is David Lawton, I am currently a student in Trinity College Dublin studying theoretical physics. 🔭
-### The content of my repositories is mainly physics and maths related simulations in python, for example, chaotic systems or numerical integrations!
+### The content of my repositories is mainly physics and maths related simulations in python, for example, chaotic systems or numerical integrations! Also included are various reports on physics laboratories and assignments.
 
 <!--
 **DavidLawton04/DavidLawton04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
